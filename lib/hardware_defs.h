@@ -1,0 +1,4 @@
+#define DPIN0 PORTD0
+#define DPIN1 PORTD1
+#define DPIN2 PORTD2
+#define DPIN3 PORTD3
